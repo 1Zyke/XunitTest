@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet", "ASPnet\ASPnet.csproj", "{DD197B19-E31D-416B-A4BF-46DC6A79140F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPTest", "ASPTest\ASPTest.csproj", "{D54D9580-4F50-464B-88A8-C517AC92CBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD197B19-E31D-416B-A4BF-46DC6A79140F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD197B19-E31D-416B-A4BF-46DC6A79140F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD197B19-E31D-416B-A4BF-46DC6A79140F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD197B19-E31D-416B-A4BF-46DC6A79140F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54D9580-4F50-464B-88A8-C517AC92CBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54D9580-4F50-464B-88A8-C517AC92CBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54D9580-4F50-464B-88A8-C517AC92CBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54D9580-4F50-464B-88A8-C517AC92CBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCB3E55-BECC-4257-A507-248F049C6F76}
+	EndGlobalSection
+EndGlobal
